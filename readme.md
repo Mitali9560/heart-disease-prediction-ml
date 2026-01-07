@@ -70,8 +70,12 @@ pip install pandas numpy scikit-learn
 python heart_disease.py
 
 
+--------
+
+
 ## Author:
 Mitali Kumane
 B.Tech – Artificial Intelligence & Machine Learning 
+
 
 
