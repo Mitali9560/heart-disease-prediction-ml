@@ -67,6 +67,7 @@ High recall is important in healthcare to reduce false negatives.
 1. Install required libraries:
 ```bash
 pip install pandas numpy scikit-learn
+## RUN IN TERMINAL
 python heart_disease.py
 
 
@@ -78,6 +79,7 @@ Mitali Kumane
 B.Tech – Artificial Intelligence & Machine Learning
 
 ---
+
 
 
 
